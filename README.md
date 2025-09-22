@@ -8,6 +8,8 @@
 
 Ce projet de recherche explore les méthodes avancées d'intelligence artificielle pour créer des modèles comportementaux qui imitent fidèlement le comportement humain dans les environnements virtuels, particulièrement dans les jeux vidéo. Notre étude comparative analyse 5 papiers de recherche majeurs pour identifier les approches les plus efficaces.
 
+![Abstarct](image/abstract.png)
+
 ## 🎯 Objectifs
 
 - **Analyser** les différentes méthodes d'IA pour l'imitation du comportement humain
